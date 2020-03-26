@@ -1,0 +1,1 @@
+export const GET_BANKS = "GET_BANKS";
